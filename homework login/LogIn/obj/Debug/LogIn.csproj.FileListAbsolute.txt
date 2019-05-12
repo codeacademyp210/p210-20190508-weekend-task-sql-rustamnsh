@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Asus\source\repos\LogIn\LogIn\bin\Debug\LogIn.exe
+C:\Users\Asus\source\repos\LogIn\LogIn\bin\Debug\LogIn.pdb
+C:\Users\Asus\source\repos\LogIn\LogIn\obj\Debug\LogIn.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\LogIn\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\Asus\source\repos\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\Asus\source\repos\LogIn\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\LogIn\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\Users\Asus\source\repos\LogIn\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Asus\source\repos\LogIn\LogIn\obj\Debug\LogIn.register.resources
+C:\Users\Asus\source\repos\LogIn\LogIn\obj\Debug\LogIn.Product.resources
